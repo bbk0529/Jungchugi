@@ -1,0 +1,198 @@
+﻿ABC(Activity Based Costing) : 활동기준 원가계산
+ABM(Activity Based Management) : 활동기준 관리
+AJAX(Asynchronous JavaScript and XML) : 비동기 자바 스크립트와 XML
+AMR(Automatic Meter Reading) : 원격 검침
+AP(Access Point) : 무선 접속장치
+AppBook(Application Book) : 앱북
+APT(Advanced Persistent Threats) : 지능형 지속 위협
+AR(Augmented Reality) : 증강현실
+ATH(Absolute Threshold of Hearing) : 절대 가청 임계
+B2B(Business To Business) : 기업 간의 전자상거래
+B2C(Business to Customer) : 기업과 소비자 간의 전자상거래
+B2E(Business to Employed) : 기업과 직원 간의 전자상거래
+B2G(Business To Government) : 기업과 정부 간의 전자상거래
+BaaS(Backend as a Service) : 서비스형 백엔드
+BCP(Business Continuity Planning) : 업무 연속성 계획
+BEMS(Building Energy Management System) : 건물 에너지 관리 시스템
+BPM(Business Process Management) : 업무 프로세스 관리
+BPO(Business Process Outsourcing) : 업무 프로세스 아웃 소싱
+BPR(Business Process Reengineering) : 업무 프로세스 재설계
+BRMS(Business Rule Management System) : 비즈니스 규칙 관리 시스템
+BSC(Balanced Score Card) : 균형 성과 관리
+C2C(Customer to Customer) : 소비자 간의 전자상거래
+CALS(Commerce At Light Speed) : 광속상거래
+CAPTCHA(Completely Automated Public Turing test to
+tell Computers and Humans Apart) : 자동 계정 생성 방지 기술
+CC(Common Criteria) : 공통 평가 기준
+CCL(Creative Commons Licence) : 저작물 이용 약관
+CCTA(Central Computer and Telecommunications Agency) : 중앙 컴퓨터 통신부
+CDI(Customer Data Integration) : 고객 정보 관리
+CEP(Complex Event Processing) : 복잡 이벤트 처리
+CIO(Chief Information Officer) : 기업의 최고 정보 책임자
+CLMS(Copyright License Management System) : 저작권
+라이선스 통합관리 시스템
+CoMP(Coordinated Multi-Point transmission and reception) : 다지점 협력 통신
+COW(Cell On Wheels) : 차량 탑재 기지국
+CPM(Corporate Performance Management) : 기업 성과관리
+CRL(Certificate Revocation List) : 인증서 폐기 목록
+CRM(Customer Relationship Management) : 고객 관계 관리
+CSF(Critical Success Factor) : 핵심 성공 요소
+CSI(Continual Service Improvement) : 지속적인 서비스개선
+CTI(Cyber Threat Intelligence) : 지능형 사이버 위협 대응
+CTU(Coding Tree Unit) : 코딩 트리 단위
+DAI(Digital Access Index) : 디지털 접근 지수
+DBA(DataBase Administrator) : 데이터베이스 관리자
+DBMS(DataBase Management System) : 데이터베이스 관리 시스템
+DDoS(Distributed Denial of Service) : 분산 서비스 거부공격
+DES(Data Encryption Standard) : 데이터 암호 표준
+DIVA(Digital Interface for Video and Audio) : AV용 디지털인터페이스
+DLP(Data Leakage/Loss Prevention) : 데이터 유출 방지
+DMB(Digital Multimedia Broadcasting) : 디지털 멀티미디어방송
+DPM(Digital PostMark) : 디지털 우편소인
+DRM(Digital Rights Management) : 디지털 저작권 관리
+DVB-SCX(Digital Video Broadcasting-Satellite version 2 eXtensions) : DVB-S2 확장규격
+EA(Enterprise Architecture) : 전사적 아키텍처
+EAI(Enterprise Application Integration) : 전사적 응용 통합
+EC(Electronic Commerce) : 전자상거래
+ECU(Electronic Control Unit) : 전자 제어장치
+EDI(Electronic Data Interchange) : 전자 자료 교환
+EIP(Enterprise Information Portal) : 기업 정보 포털
+EIS(Executive Information System) : 경영진 정보 시스템
+EKP(Enterprise Knowledge Portal) : 기업 지식 포털
+ERM(Enterprise Risk Management) : 전사적 위험 관리
+ERP(Enterprise Resource Planning) : 전사적 자원 관리
+FDR(Flight Data Recorder) : 비행 기록 장치
+Food Tech(Food Technology) : 먹거리 테크
+FOSS(Free and Open Source Software) : 자유·공개 소스 소프트웨어
+FTP(File Transfer Protocol) : 파일 전송 프로토콜
+GBAS(Ground Based Augmentation System) : 지상 기반보정 시스템
+GIS(Geographic Information System) : 지리 정보 시스템
+GPS(Global Positioning System) : 위성 위치 시스템
+GT(Green Technology) : 녹색 기술
+GUI(Graphic User Interface) : 그래픽 사용자 인터페이스
+HDCP(High-bandwidth Digital Content Protection) : 고대역폭 디지털 콘텐츠 전송 보호
+HEVC(High Efficiency Video Coding) : 고효율 비디오 코딩
+HMD(Head Mounted Display) : 두부 장착형 디스플레이
+HSDPA(High Speed Downlink Packet Access) : 고속 하향 패킷 접속
+HVC(High performance Video Coding) : 고성능 영상 코딩
+IBFD(In-Band Full Duplex radio) : 동일 채널 동시 송수신
+ICMP(Internet Control Management Protocol) : 인터넷 제어 메시지 프로토콜
+IDS(Intrusion Detection System) : 침입 탐지 시스템
+IEC(International Electrotechnical Commission) : 국제 전기표준 회의
+IoT(Internet of Tings) : 사물 인터넷
+IPA(Intelligent Personal Assistant) : 지능형 가상 비서
+i-PIN(internet Personal Identification Number) : 인터넷 개인식별번호
+IPSec(Internet Protocol security protocol) : IP 보안 프로토콜
+IRM(Information Resource Management) : 정보 자원 관리
+ISO(International Organization for Standardization) : 국제표준화 기구
+ISP(Internet Service Provider) : 인터넷 서비스 제공자
+ISP(Information Strategy Planning) : 정보 전략 계획
+ITIL(Information Technology Infrastructure Library) : 정보기술 인프라 라이브러리
+ITO(Information Technology Outsourcing) : 정보 기술 아웃소싱
+ITS(Intelligent Transportation System) : 지능형 교통 시스템
+ITSM(Information Technology Service Management) : IT서비스 관리
+IX(Internet eXchange) : 인터넷 연동
+JVM(Java Virtual Machine) : 자바 가상 기계
+KMS(Knowledge Management System) : 지식 관리 시스템
+KPI(Key Performance Indicator) : 핵심 성과 지표
+LAN(Local Area Network) : 근거리 통신망
+LBS(Location-Based Services) : 위치 중심 서비스
+LBSNS(Location Based Social Network Service) : 위치 기반 소셜 네트워크 서비스
+LED(Light Emitting Diode) : 발광 다이오드
+LOD(Linked Open Data) : 개방형 연결 데이터
+LTE(Long Term Evolution) : 미래 장기 진화
+M2M(Machine to Machine) : 사물 통신
+MAN(Metropolitan Area Network) : 도시권 통신망
+Massive MIMO(Massive Multi Input Multi Output) : 대용량미모
+MDA(Model-Driven Architecture) : 모델 주도형 구조
+MDD(Model-Driven Development) : 모델 주도형 개발
+MDM(Master Data Management) : 기준 정보 관리
+MPP(Multiple Program Provider) : 복수 방송 채널 사용 사업자
+MRP(Material Requirements Planning) : 자재 소요 계획
+MRPⅡ(Manufacturing Resource Planning) : 제조 자원 계획
+MST(Magnetic Secure Transmission) : 마그네틱 안전 전송
+NB-IoT(NarrowBand-Internet of Things) : 협대역 사물 인터넷
+NFC(Near Field Communication) : 근거리 무선 통신
+NGN(Next Generation Network) : 차세대 통신망
+NRI(Networked Readiness Index) : 네트워크 준비 지수
+O2O(Online-to-Offline business) : 온-오프라인 연결 비즈니스
+OCAP(Open Cable Application Platform) : 오픈 케이블 응용 플랫폼
+OFDM(Orthogonal Frequency Division Multiplexing) : 직교주파수 분할 다중
+OLA(Operational Level Agreement) : 운용 수준 계약
+OPE(Order Preserving Encryption) : 순차적 암호화
+OSHW(Open Source Hardware) : 공개 소스 하드웨어
+OSINT(Open Source INTelligence) : 공개 출처 정보
+OSS(Open Source Software) : 공개 소스 소프트웨어
+OTP(One-Time Password) : 일회용 패스워드 
+Oxide TFT(Oxide Thin Film Transistor) : 산화물 박막 트랜지스터
+PAD(Program Associated Data) : 프로그램 연동 정보
+PDS(Public Domain Software) : 공용 소프트웨어
+PES(Personal Environment Service) : 개인 환경 서비스
+PET(Privacy Enhancing Technology) : 프라이버시 강화기술
+PI(Process Innovation) : 업무 혁신
+PIA(Privacy Impact Assessment) : 개인정보 영향평가 제도
+PIM(Product Information Management) : 제품 정보 관리
+PKI(Public Key Infrastructure) : 공개키 기반 구조
+PLM(Product Lifecycle Management) : 제품 수명주기 관리
+QoE(Quality of Experience) : 체감 품질
+QoS(Quality of Service) : 서비스 품질
+RAID(Redundant Array of Inexpensive Disk) : 복수 배열독립 디스크
+RFID(Radio Frequency Identification) : 전파 식별
+RPO(Recovery Point Objective) : 목표 복구 시점
+RSS(Really Simple Syndication) : 맞춤형 정보 배달
+RT(Relation Technology) : 관계 기술
+RTE(Real-Time Enterprise) : 실시간 기업
+RVC(Reconfigurable Video Coding) : 재설정 비디오 코딩
+SaaS(Software as a Service) : 서비스형 소프트웨어
+SAM(Secure Application Module) : 보안 응용 모듈
+SBAS(Satellite Based Augmentation System) : 위성 기반보정 시스템
+SCE(Supply Chain Execution) : 공급망 실행
+SCM(Supply Chain Management) : 공급망 관리
+SCO(Synchronous Connection Oriented link) : 동기식 접속 지향 링크
+SCORM(Sharable Content Object Reference Model) : 공유가능 콘텐츠 객체 참조 모형
+SCP(Supply Chain Planning) : 공급망 계획
+SD(Service Design) : 서비스 설계
+SDN(Software Defined Networking) : 소프트웨어 정의 네트워킹
+SED(Surface-conduction Electron-emitter Display) : 표면전도 전자방출 디스플레이
+SEM(Strategic Enterprise Management) : 전략적 기업경영
+SEO(Search Engine Optimization) : 검색 엔진 최적화
+SIS(Strategic Information System) : 전략 정보 시스템
+SLA(Service Level Agreement) : 서비스 수준 계약
+SLM(Service Level Management) : 서비스 수준 관리
+SLO(Service Level Objective) : 서비스 수준 목표
+SO(Service Operation) : 서비스 운영
+SOA(Service Oriented Architecture) : 서비스 지향 아키텍처
+SQL(Structured Query Language) : 구조화 질의 언어
+SRM(Supplier Relationship Management) : 공급업체 관계관리
+SS(Service Strategy) : 서비스 전략
+SSID(Service Set Identifier) : 서비스 세트 식별자
+SSL(Secure Sockets Layer) : 보안 소켓 계층
+ST(Service Transition) : 서비스 전환
+Stick PC(PC on a Stick) : 막대형 컴퓨터
+STTD(Space Time Transmit Diversity) : 시공간 송신 다이버시티
+SYN(SYNchronous idle) : 동기 상태 부호
+TCM(Trellis Coded Modulation) : 격자 부호 변조
+TEIN(Trans-Eurasia Information Network) : 유라시아 초고속 정보통신망
+TPS(Transaction Processing System) : 거래 처리 시스템
+TV Band DB(TV Band Database) : 티브이 대역 데이터베이스
+UC(Underpinning Contract) : 외부 공급 계약
+UCC(User Created Contents) : 사용자 제작 콘텐츠
+UPnP(Universal Plug and Play) : 범용 플러그 앤 플레이
+USIM(Universal Subscriber Identity Module) : 범용 가입자식별 모듈
+USN(Ubiquitous Sensor Network) : 유비쿼터스 감지 통신망
+UWB(Ultra WideBand) : 초광대역
+VBM(Value Based Management) : 가치 기준 경영
+VBR(Variable BitRate) : 가변 비트레이트
+VMC(Vehicle Multihop Communication) : 차량 멀티홉 통신
+VOD(Video On Demand) : 주문형 비디오
+VPN(Virtual Private Networks) : 가상 사설 통신망
+VRF(Vritual Routing and Forwarding) : 가상 라우팅 및 포워딩
+VRM(Vendor Relationship Management) : 밴더 관계 관리
+WBS(Work Break down Structure) : 업무 분업 구조
+WCDMA(Wide-band CDMA) : 광대역 부호 분할 다중 접속
+WEP(Wired Equivalent Privacy) : 유선급 프라이버시
+WiBrO(Wireless Broadband) : 와이브로
+WiFi(Wireless-Fidelity) : 와이파이
+WIPI(Wireless Internet Platform for Interoperability) : 위피
+WLAN(Wireless LAN) : 무선랜
+XML(eXtensible Markup Language) : 확장성 마크업 언어
