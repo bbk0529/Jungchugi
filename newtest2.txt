@@ -78,7 +78,7 @@ LAN과 WAN의 중간 형태. 도시전역 또는 도시와 도시 등 넓은 지
 20[	Software Escrow
 소프트웨어 개발자의 지식재산권을 보호하고 사용자에게는 저렴한 비용으로 소프트웨어를 안정적으로 사용하고 유지 보수를 받을 수 있도록 하기 위해서 소스 프로그램과 기술 정보 등을 제3의 기관에 보관하는 것이다.
 
-21[	CCL(Creative Common Licence, 저작물 이용 약관)
+21[	CCL(Creative Commons Licence, 저작물 이용 약관)
 저작권자가 자신의 저작물에 대한 이용방법 및 조건을 표기하는 저작물 이용약관이다. 저작자 표시(BY), 비영리($), 변경금지(=), 동일조건 변경허락(>)의 4가지로 분류
 
 22[	정부 개인식별 번호(Government-Personal Identification Number) – G-PIN

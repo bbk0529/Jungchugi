@@ -44,3 +44,132 @@ Traditional databases are orignized by (1), records, and file. (1) means a singl
 
 
 
+[DSS, Decision Support System, 의사 결정 지원 시스템]
+(1)은 컴퓨터를 사용하여 정형화 되지 않는 문제, 즉 주로 반구조적인 문제로서 일부 측면은 계량화 할 수 있으나 일부는 주관적으로 다룰 수 밖에 없는 문제에 대해 의사결정자가 효과적인 의사 결정을 할 수 있도록 지원하는 것이다. 일상적인 업무 운영을 통해 데이터를 수집하는 등의 운영 시스템을 뛰어 넘어 의사 결정 정보를 제공하는 응용프로그램으로서의 역할을 해낸다. (1)을 통해 얻을 수 있는 전형적인 정보로는 주간판매량 비교, 신제품 판매 전망에 기초한 수입 예측 등과 같은 것이 있다. 
+
+[SIS, Strategic information system]
+    (2)는 기업이 경쟁 우위를 확보하기 위하여 구축, 이용하는 정보 시스템이다. 이 용어에 대한 개념은 1985년경에 출현하였는데, 종래의 정보 시스템이 기업 내 업무의 합리화나 효율화에 역점을 두었던 것에 반하여, 기업이 경쟁에서 승리하여 살아 남기 위한 필수적인 시스템이라는 뜻에서 (2) 이라고 불린다. 그 요건으로는 경쟁 우위의 확보(고객의 포위), 신규 사업의 창출이나 상권의 확대, 업계 구조의 변혁등이 있을 수 있다. 
+
+[QoS, Quality of Service]
+In the field of computer networking and other packet-switched telecommunication networks, it referes to resource reservation control mechanisms rather than the achieved service quality. It is the ability to provide diffrent priority to diffrent application, users, or data flows, or to guarantee a certain level of performance to a data flow. For example, a required bitrate, delay, jitter, packet dropping probability and/or bit error rate may be guaranteed. 
+
+
+[디지털 아카이빙 Data Archiving]
+디지털 정보 자원을 장기적으로 보존하기 위한 작업으로, 아날로그 컨텐츠는 디지털로 변환한 후 압축해서 저장하고, 디지털 컨텐츠도 체계적으로 분류하고 메타데이터를 만들어 DB화 하는 작업을 말하는 용어를 쓰시오. 
+
+[SIS, Strategic Information System]
+기업내 경쟁 우위를 확보하기 위해 구축, 이용하는 정보 시스템. 이 용어에 대한 개념은 1985년에 출현. 종래의 정보 시스템이 기업 내 업무의 합리화나 효율화에 역점을 두었던 것에 반하여, 기업이 경쟁에서 승리하여 살아남기 위한 필수적인 시스템이라는 뜻에서 ( ) 이라고 불린다. 그 요건으로는 경쟁 우위의 확보 (고객의 우위), 신규 사업의 창출이나 상권의 확대, 업계 구조의 변혁 등을 들 수 있다. 
+
+
+[출구 필터링, Egress Filtering]
+조직 내부의 위협이 밖으로 전파되어 기업 외부의 IT 자원에 영향을 미치지 않도록 내부 통신망의 라우터나 방화벽에서 외부로 나가는 속성을 검사하고, 흐름을 제어하는 보안 깁법. 조직내의 시스템이 DDoS 공격으로 인해 좀비 PC가 되거나 랜섬웨어로 인해 데이터가 파손된 경우 외부로 빠져나가지 못하고 통제하여 추가적인 피해를 방지할 수 있다. 
+
+[RIA, Rich Internet Application]
+플래쉬 애니메이션 기술과 웹 서버 애플리케이션 기술을 통합하여 기존 HTML 보다 역동적이고 인터랙티브한 웹페이지를 제공하는 신개념의 플래시 웹페이지 제작 기술이다. 
+
+다양한 컴포넌트가 추가된 플래쉬(FLASH) 와 플랙스 (FLEX)같은 멀티미디어 도구와 데이터베이스가 연동되는 단일 인터페이스를 통해 기존의 웹에서는 볼 수 있었던 다이나믹하고, 편리한 고객 중심의 웹페이지가 제공된다.
+ㅉ
+매크로 미디어가 플래쉬 MX 저작풀을 통해 처음 선보인 이후 쇼핑몰이나 대고객 웹서비스, 포탈 등을 중심으로 널리 확산되고 있다. 
+
+
+[CNAME, Canonical Name]
+호스트 컴퓨터는 웹 접속을 위해 하나의 IP 주소를 가져야 하는데, 이 IP 주소는 DNS가 호스트 컴퓨터의 도메인 이름을 변환하여 생성한다. 그러나 종종 여러개의 도메인 이름을 통일한 하나의 IP 주소로 변환하여 사용하기도 하는데, 이를 () 이라고 한다 ()은 하나의 IP 주소에서 여러개의 서버를 운영할 때 유용하게 사용할 수 있다. 
+
+
+
+
+[정보은닉, Information Hiding]
+캡슐화에서 가장 중요한 개념으로, 다른 객체에게 자신의 정보를 숨기고 자신의 연산만을 통해서 접근을 허용하는 것이다. 
+
+각 객체의 수정이 다른 객체에게 주는 영향을 최소화 하는 기술이다. 
+
+외부 객체가 객체의 데이터와 함수를 직접 접근하여 사용하거나 변경하지 못하므로 유지보수와 소프트웨어 확장 시 오류를 최소화 할 수 있다. 
+
+[Parity bit]
+
+In communication, it is used to check that data has been transmitted accurately. It is added to every data unit that are transmitted. it for each unit is set so that all bytes have eitehr and odd number of an even number of set bits. It is an extra bit that is attached to a code group that is being transferred from one location to another. it is made either 0 or 1, depending on the number of 1s that are contained in the code group.
+
+
+[Posix]
+유닉스를 기반으로 한 표준 운영체제 인터페이스로, IEEE 산하 P1003 기술 위원회에서 작성한 표준 규격이다. 
+
+[IDS, Intrusion Detection System]
+침입 탐지 시스템
+
+
+[부인 방지(Non-Repudiation)] 
+송수신 사실을 부인할 수 없도록 송수신 증거 제공\
+
+[접근 통제(Access Control) – ]
+불법적인 접근을 방지하는 과정
+
+
+[PI, Process Innovation]
+기존의 업무처리방식을 정형화하고, 최적의 프로세스를 재구축하여 업무의 효율성을 높이려는 비지니스 프로젝트를 말하며, 미국의 경제학자 대븐포트(Davenport)는 "정보 기술을 활용하여 비지니스 프로세스 (Business Process)를 혁신함으로써 사업성과를 높이려는 것"이라고 정의했다 이것의 추진에 있어 가장 중요한 3요소는 프로세스, 정보기술, 조직이며, 이는 기업의 비전과 전략등을 달성 하는데 있어 중요한 수단이 된다. 전반적인 업무를 급진적으로 추진하는 BPR에 비해 기존 프로세스를 인정하고, 환경 변화에 따라 점진적이고 지속적으로 변화를 추구한다. 
+
+
+[데이터베이스 분할 Database Partitioning]
+() 이란 하나의 데이터베이스의 테이블을 여러 개로 분산 저장하는 것을 의미한다. 데이터의 용량이 과다해질 경우 조회 시간이 길어지는, ()을(를) 통해 이런 문제가 해결될 수도 있다. 데이터베이스 시스템의 관리 용이성, 성능, 가용성 등의 향상을 이유로 사용되기도 한다. () 하는 방법에는 테이블을 행 단위로 나누어 다른 테이블에 분산시키는 방법과 테이블을 열 단위로 나누어 다른 테이블에 분산하는 방법이 있다. 
+
+
+[Web Socket, 웹소켓]
+웹 브라우저와 웹 서버 사이에 전이중 (Full-duplex) 통신을 제공하는 프로토콜로 두 지점 간의 실시간 상호 작용을 지원한다. 
+
+게임, 채팅, 주식거래 등과 같이 실시간이 요구되는 응용프로그램을 효과적으로 구현하는데 도움을 준다.
+
+2011년 인터넷 표준화 기구(IETF: Internet Engineering Task Force)에서 표준화되었고, API(application programming interface)는 월드 와이트 웹 컨소시움에서 표준화를 완료했다. 
+
+
+[Internet Exchange, IX]
+인터넷 서비스 제공자 상호간의 트래픽을 원활하게 소통시키기 위해 구추간 네트워크 간 연동 서비스다. 네트워크 서비스에 대한 수요가 큰 컨텐츠 전송망(CDN, Content Delivery Network ) 서버와 네이버 다음 카카오 등과 같은 포털 서버의 회선에 직접 연결되어 개별 isp 들의 ㄱ여제적 부담을 완화해 서비스 품질의 향상을 기대할 수 있다. 미국의 ( )에 의존하여 네트워크 운영에 있어 효율성이 떨어졌으나, 1995년 한국 정보 진흥원(NIA)에서 서비스하기 시작하면서 개선되었다.
+
+
+[스미싱, Smishing]
+무료 쿠폰이나 모바일 초대장 등의 문자 메시지를 보낸 후 메시지에 있는 인터넷 주소를 클릭하면 악성 코드를 설치하여 개인 금융 정보를 빼내는 행위를 의미하는 용어를 쓰시오
+
+[XML, eXtensible Markup Language]
+W3W가 채택한 차세대 인터넷 표준 언어로 HTML 의 문법이 서로 다른 웹 브라우저에서 상호 호환되지 않는 문제와 SGML 의 복잡함을 해결하기 위해 개발되었다. 웹 문서에 쉽게 응용할 수 있도록 SGML 의 특정 부분을 사용하였고, 사용자가 직접 문서의 내용과 관련된 태그를 정의할 수 있을 뿐만 아니라 그 태그를 다른 사용자들이 이욯라 수도 있게 하였다.
+
+[Dark data]
+특정 목적을 가지고 데이터를 수집하였으나, 이후 활용되지 않고 저장만 되어 있는 대량의 데이터를 의미하는 용어를 쓰시오. 
+
+
+[Doxing]
+dropping docs 문서를 떨어뜨리다에서 파생된 용어로 특정 개인이나 조직을 해킹하여 빼낸 정보를 온라인에 공개하는 행위를 의미한다, 사적으로 특정인의 이름, 주소, 전화번호 등 개인 정보를 몰래 빼내 다른 이들에게 누설하는 행위 ()에 포함된다.
+
+
+[Row migration]
+() 블록의 크기를 벗어나 다른 블록으로 이동하는 현상. 해당 행을 검색하면, DBMS는 처음 저장되었던 블록을 검색한 다음 () 현상이 발생한 블록을 또 읽어서 검색하므로, 검색 속도가 떨어진다. 
+
+
+[PET, Privacy Enhancing Technology]
+최근 심각한 위험으로 대두되고 있는 개인 정보 위험을 관리하기 위핸 핵심 기술로 이 기술은 암호화 익명화 등 개인 정보를 보호하는 기술에서 부터 사용자가 직접 개인 정보를 통제하기 위한 기술까지 다양한 프라이버시 보호기술을 통칭한다. 이 용어를 영문 완전이름 또는 약어로 
+
+
+[지능정보기술]
+인공지능과 ICBM (IOT, Cloud Computing, Big Data, Mobile)을 결합하여 인간의 인지, 학습 추론 등의 고차원 적인 정보처리 능력을 구현하는 것. 
+
+[데이터베이스의 목표 중, 위치 투명성]
+접근하려는 데이터베이스의 실제 위치를 알 필요 없이 단지 데이터베이스의 논리적인 명칭만으로 접근할 수 있다. 
+
+[Trustzone Technology, 트러스트 존 기술]
+
+칩 설계회사인 ARM 에서 개발한 기술로, 하나의 프로세서(Processor)내에 일반적인 애플리케이션을 구동하는 일반 구역 (normal world)과 보안이 필요한 애플리케이션을 처리하는 보안구역(secure world)으로 분리하여 관리하는 하드웨어 기반의 보안 기술. 이 기술을 적용한 프로세서를 사용하면 결제, 인증서, 기밀문서 등과 같이 보안이 필요한 데이터들을 취급하는 애플리케이션을 외부 공격에 노출하지 않고 운영체제(OS)수준에서 안전하게 보호하는 것이 가능하다. 
+
+
+[갱신분실 LOST UPDATE]
+2개 이상의 트랜잭션이 같은 데이터를 공유하여 개인할 때 갱신 결과의 일부가 없어지는 현상
+
+[모순성, Inconsistency]
+복수의 사용자가 동ㅇ시에 같은 데이터를 갱신할 때, 데이터 베이스 내의 데이터들이 상호 일치하지 않아 모순된 결과가 발생하는 현상
+
+[연쇄복귀, Cascading Rollback]
+병행 수행되던 트랜잭션 들 중 어느 하나에 문제가 생겨 rollback되는 경우 다른 트랜잭션들도 함께 rollback 되는 현상
+
+
+[CSF, Critical Success Factor, 핵심 성공요소]
+MIT에서 개발한 전략 정보 시스템 실현을 위한 기법. 성공에 불가결한 요인을 찾아내서 경영상 중요한 정보를 결정하는 방법
+
+
+[OLTP, OLAP, 
+

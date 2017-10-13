@@ -1,0 +1,12 @@
+
+[GRANT 
+
+김하늘에게 (학생) 테이블에 대한 접근 및 조작에 관한 모든 권한을 부여하는 SQL문을 작성하시오
+
+
+
+
+아래의 요구사항을 만족하는 뷰 CC를 정의하는 SQL문을 작성하시오
+
+<Course> 와 <Instructor> 릴레이션을 이용한다
+<Course> 의 'Instrutor'속성값과 <Instructor>의 
