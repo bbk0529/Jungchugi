@@ -1,3 +1,6 @@
+import pickle
+import glob
+
 def cls():
 	print("\n" * 100)
 
@@ -47,11 +50,17 @@ def convert(fname):
 	    else : f.write(x)
 
 
-def again(filename) : #파일에서 번호를 읽어와서 배열로 만듬. 
-	f=open(filename,'r')
-	specific_number= [int(a) for a in f.readlines() if a!='\n']
-	return specific_number
+def read_wrong(filename) : #파일에서 번호를 읽어와서 배열로 만듬. 
+	f=open(filename,'rb')
+	arr_wrong= pickle.load(f)
+	f.close()
+	return arr_wrong
 	
+def write_wrong(filename, arr_wrong) :
+	f=open(filename, 'wb')
+	pickle.dump(arr_wrong, f)
+	f.close()
+
 
 def read_problem(filename='test.txt', onlywrong=False) : #onlyWrong = 틀린문제만 읽어들임. 
 	import numpy as np
@@ -76,53 +85,32 @@ def read_problem(filename='test.txt', onlywrong=False) : #onlyWrong = 틀린문�
 	if onlywrong == False : 
 		o=np.random.choice(np.arange(0,len(p)), len(p), False)
 	else : 
-		fname2='r_' + filename 
-		o= again(fname2)
-		print(o)
-	return o, a, p, filename
+		o= read_wrong('r_' + filename)
+		print (o)
+
+	fname2='r_' + filename 
+	return [o, a, p, fname2]
 
 	
-def q_and_a (o, a, p, filename, repeat, descriptive=False, recording=False):
+def q_and_a (inp):
 	again=[]
-	
-	if recording ==True :
-		print(filename)
-		f=open(filename,'a')
-		f.write('\n')
 		
-	print ('\n','='*50, '\n', 'Repeated number  ', repeat, '\n', '='*50,'\n')
-	for pick in o:
-		if descriptive==False: 
-			print('\n'*5, repeat, ' ', pick, '\n', p[pick]);	input()
-			print(a[pick]); 							temp=input()
-		else :
-			print('\n'*5, repeat, ' ',pick,'\n', a[pick]);	input()
-			print(p[pick]); 							temp=input()
-			
-			
+	print ('\n','='*50, '\n', '\n', '='*50,'\n')
+	for pick in inp[0]:
+		print(inp[2][pick]);input()
+		print(inp[1][pick]);temp=input()
 		if temp=='q': break
 		if temp=='a': 
 			again.append(pick)
-			if recording == True : 
-				pick= str(pick) + '\n'
-				f.write(pick)
-		if len(again) !=0 : 
-			q_and_a(again, a, p, filename, repeat+1)
-	f.close()		
+	if len(again) !=0 : 
+		if len(glob.glob(inp[3]))!=0: 
+			again.extend(read_wrong(inp[3]))
+		write_wrong(inp[3],again)
 	
-
 def start1():
-	o,a,p,filename=read_problem('test.txt')
-	q_and_a(o,a,p,filename,1)
+	q_and_a(read_problem('test.txt'))
 	
-
-
-def start2():
-	o,a,p,filename=read_problem('short_answer.txt')
-	q_and_a(o,a,p,filename,1)
-
-
-def start3():
-	o,a,p,filename=read_problem('desc_answer.txt', True)
-	q_and_a(o,a,p,filename,1)
+	
+def start1_r():
+	q_and_a(read_problem('test.txt', True))
 	
